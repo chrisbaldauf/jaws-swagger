@@ -1,0 +1,30 @@
+{
+  "name": "jaws-swagger",
+  "version": "1.0.0",
+  "description": "A Swagger.io plugin for the JAWS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marklawlor/jaws-swagger.git"
+  },
+  "author": "Mark Lawlor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklawlor/jaws-swagger/issues"
+  },
+  "homepage": "https://github.com/marklawlor/jaws-swagger#readme",
+  "dependencies": {
+    "babel": "^5.8.29",
+    "co": "^4.6.0",
+    "debug": "^2.2.0",
+    "extend": "^3.0.0",
+    "fs-extra": "^0.25.0",
+    "glob": "^5.0.15",
+    "mz": "^2.1.0",
+    "swagger-ui": "^2.1.3",
+    "temp": "^0.8.3"
+  }
+}
