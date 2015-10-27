@@ -4,7 +4,7 @@ A Swagger.io plugin for the JAWS Framework
 
 ## Initalizing a New JAWS Project
 
-    $ ./bin/jaws-swagger init sample.json
+    $ ./bin/jaws-swagger init swagger.json
 
 ## Project Structure
 
