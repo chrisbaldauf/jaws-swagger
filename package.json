@@ -19,10 +19,12 @@
   "dependencies": {
     "babel": "^5.8.29",
     "co": "^4.6.0",
+    "commander": "^2.9.0",
     "debug": "^2.2.0",
     "extend": "^3.0.0",
     "fs-extra": "^0.25.0",
     "glob": "^5.0.15",
+    "jaws-framework": "chrisbaldauf/jaws#8c2365e2d08fd295aab4dca3e91098bff31d863f",
     "mz": "^2.1.0",
     "swagger-parser": "^3.3.0",
     "swagger-ui": "^2.1.3",
