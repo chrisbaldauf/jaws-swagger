@@ -24,8 +24,8 @@
     "fs-extra": "^0.25.0",
     "glob": "^5.0.15",
     "mz": "^2.1.0",
+    "swagger-parser": "^3.3.0",
     "swagger-ui": "^2.1.3",
-    "swagger-validator": "^1.2.0",
     "temp": "^0.8.3"
   }
 }
